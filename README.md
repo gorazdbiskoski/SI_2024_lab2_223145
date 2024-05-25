@@ -2,6 +2,7 @@
 Горазд Бишкоски, бр. на индекс 223145
 
 Control Flow Graph
+
 ![Screenshot 2024-05-25 132137](https://github.com/gorazdbiskoski/SI_2024_lab2_223145/assets/126030318/c5846b2e-fb63-4f72-b8ee-18f63f7353c1)
 
 Цикломатска комплексност
@@ -15,6 +16,7 @@ Control Flow Graph
 
 
 Тест случаи според критериумот Every path
+
 ![excel-ss](https://github.com/gorazdbiskoski/SI_2024_lab2_223145/assets/126030318/06c2c35d-8e99-41ed-acc5-ff515b1e644a)
 
 Објаснување на напишаните unit tests

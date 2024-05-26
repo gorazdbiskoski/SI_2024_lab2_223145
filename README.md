@@ -11,8 +11,11 @@
 
 ### Тест случаи според критериумот Multiple Condition за условот if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0) == '0')
 -True & True & True     : item.price = 350; item.discount = 0.25; item.barcode = "0123"
+
 -True & True & False    : item.price = 350; item.discount = 0.25; item.barcode = "1234"
+
 -True & False & X       : item.price = 350; item.discount = -1; item.barcode = "1234"
+
 -False & X & X          : item.price = 200; item.discount = -1; item.barcode = "1234"
 
 
